@@ -1,0 +1,11 @@
+{
+  "name": "ok-0.12.15",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "docz": "0.12.15"
+  }
+}

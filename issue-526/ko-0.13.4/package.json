@@ -1,0 +1,12 @@
+{
+  "name": "ko-0.13.4",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "docz": "0.13.4",
+    "docz-theme-default": "0.13.4"
+  }
+}
