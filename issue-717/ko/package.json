@@ -1,0 +1,15 @@
+{
+  "name": "docz-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "docz": "1.0.0-rc.3",
+    "docz-theme-default": "1.0.0-rc.3",
+    "prop-types": "15.7.2",
+    "react": "16.8.5",
+    "react-dom": "16.8.5"
+  }
+}
