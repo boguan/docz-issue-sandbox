@@ -1,0 +1,19 @@
+{
+  "name": "docz-example-basic",
+  "version": "1.0.0-rc.3",
+  "license": "MIT",
+  "scripts": {
+    "start": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "react": "16.8.5",
+    "react-dom": "16.8.5",
+    "styled-components": "4.2.0"
+  },
+  "devDependencies": {
+    "docz": "1.0.0-rc.3",
+    "docz-theme-default": "1.0.0-rc.3"
+  }
+}
