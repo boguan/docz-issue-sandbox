@@ -12,7 +12,7 @@ yarn
 yarn start
 ```
 
-Get working example (but no idea why 😢)
+Get working example (no default export)
 ```
 cd issue-717/ok
 yarn

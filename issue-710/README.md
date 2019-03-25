@@ -12,3 +12,11 @@ yarn
 yarn build
 npx http-server ./.docz/dist
 ```
+
+Get working example (but no idea why 😢)
+```
+cd issue-710/ok
+yarn
+yarn build
+npx http-server ./.docz/dist
+```
