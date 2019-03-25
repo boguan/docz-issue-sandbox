@@ -1,6 +1,6 @@
 # Issue #717
 
-### Submenu config in doczrc not working 
+### Props components not working in 1.0.0-rc.3
 
 #### Issue link
 https://github.com/pedronauck/docz/issues/717
