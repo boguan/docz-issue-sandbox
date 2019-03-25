@@ -11,3 +11,10 @@ cd issue-717/ko
 yarn
 yarn start
 ```
+
+Get working example (but no idea why 😢)
+```
+cd issue-717/ok
+yarn
+yarn start
+```
