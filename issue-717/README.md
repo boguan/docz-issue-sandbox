@@ -5,14 +5,16 @@
 #### Issue link
 https://github.com/pedronauck/docz/issues/717
 
-Get bug example
+##### ❌ Get bug example
+Use of `export default`.
 ```
 cd issue-717/ko
 yarn
 yarn start
 ```
 
-Get working example (no default export)
+##### ✅ Get working example
+No use of `export default`.
 ```
 cd issue-717/ok
 yarn
