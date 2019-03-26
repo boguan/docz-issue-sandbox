@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "docz dev",
-    "build": "docz build"
+    "build": "docz build",
+    "serve": "docz build && npx http-server ./.docz/dist -c-1 -o"
   },
   "dependencies": {
     "docz": "1.0.0-rc.3",

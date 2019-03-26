@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {
     "start": "docz dev",
-    "build": "docz build"
+    "build": "docz build",
+    "serve": "docz build && npx http-server ./.docz/dist -c-1 -o"
   },
   "dependencies": {
     "prop-types": "15.7.2",

@@ -9,14 +9,12 @@ Get bug example
 ```
 cd issue-710/ko
 yarn
-yarn build
-npx http-server ./.docz/dist
+yarn serve
 ```
 
 Get working example (but no idea why 😢)
 ```
 cd issue-710/ok
 yarn
-yarn build
-npx http-server ./.docz/dist
+yarn serve
 ```
