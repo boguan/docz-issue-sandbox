@@ -1,0 +1,13 @@
+{
+  "name": "docz-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "docz": "1.0.0-rc.8",
+    "docz-theme-default": "1.0.0-rc.8",
+    "prop-types": "15.7.2"
+  }
+}
